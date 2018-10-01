@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 
 class Table extends Component {
     render() {
@@ -7,18 +7,13 @@ class Table extends Component {
                 <thead>
                     <tr>
                         <th>Name</th>
-                        <th>Jobs</th>
+                        <th>Job</th>
                     </tr>
                 </thead>
-
                 <tbody>
                     <tr>
                         <td>Tommie</td>
-                        <td>Sales Manager</td>
-                    </tr>
-                    <tr>
-                        <td>Will</td>
-                        <td>Accountant</td>
+                        <td>Distro</td>
                     </tr>
                     <tr>
                         <td>Jammie</td>
@@ -27,6 +22,10 @@ class Table extends Component {
                     <tr>
                         <td>Dre</td>
                         <td>Distro</td>
+                    </tr>
+                    <tr>
+                        <td>Dennis</td>
+                        <td>Bartender</td>
                     </tr>
                 </tbody>
             </table>
