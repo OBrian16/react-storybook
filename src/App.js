@@ -20,6 +20,10 @@ class App extends Component {
         'name': 'Dre',
         'job': 'Distro'
       },
+      {
+        'name': 'Laces',
+        'job': 'Homeboy',
+      }
     ]
   };
 
